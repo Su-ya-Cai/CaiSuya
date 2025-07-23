@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title> Cai Suya - ShanDong University</title>
+<style type="text/css"> 
+body { 
+  line-height: 160%; /* 舒适的行高 */
+  max-width: 1000px; /* 限制最大宽度 */
+  margin: 0 auto; /* 居中显示 */
+  padding: 20px;
+  font-family: Arial, sans-serif;
+} 
+#tlayout {
+  width: 100%;
+}
+#layout-menu {
+  width: 200px; /* 菜单宽度 */
+  padding-right: 20px;
+}
+#layout-content {
+  padding-left: 20px;
+  border-left: 1px solid #eee;
+}
+.menu-category {
+  font-weight: bold;
+  margin-top: 15px;
+  color: #333;
+}
+.menu-item a {
+  text-decoration: none;
+  color: #666;
+}
+.menu-item a.current {
+  color: #0066cc;
+  font-weight: bold;
+}
+h1, h2 {
+  color: #222;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+.contact-info {
+  margin: 20px 0;
+  line-height: 1.8;
+  background-color: #f9f9f9;
+  padding: 15px;
+  border-radius: 6px;
+}
+ul {
+  margin-top: 8px;
+  margin-bottom: 15px;
+}
+</style> 
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">首页</div>
+<div class="menu-item"><a href="education.html">教育背景</a></div>
+</td>
+<td id="layout-content">
+<h1>蔡苏亚</h1>
+
+<div class="contact-info">
+  <p>研究生<br />
+  统计学<br />
+  山东大学<br />
+  邮箱：<a href="mailto:202312034@mail.sdu.edu.cn">202312034@mail.sdu.edu.cn</a><br />
+  <a href="https://github.com/Su-ya-Cai/CaiSuya">GitHub</a>
+  </p>
+</div>
+
+
+<h2>教育背景</h2>
+<ul>
+  <li><strong>2023年-2026年</strong>：硕士学位，统计学专业，山东大学
+    <ul>
+      <li>研究方向：最优ITR</li>
+    </ul>
+  </li>
+</ul>
+</td>
+</tr>
+</table>
+</body>
+</html>
